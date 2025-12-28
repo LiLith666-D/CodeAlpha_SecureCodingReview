@@ -142,6 +142,7 @@ The vulnerable application is intentionally insecure and is provided strictly fo
 ## Author
 
 Dheekshita R
+
 Cyber Security Intern – CodeAlpha
 
 ---

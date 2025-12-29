@@ -1,7 +1,4 @@
 # Secure Coding Review Using Bandit
-
----
-
 ## Overview
 
 This project demonstrates a **Secure Coding Review** of a Python-based web application using **static code analysis and manual inspection**. The objective is to identify common security vulnerabilities, analyze their impact, and implement secure coding best practices to mitigate them.
@@ -123,12 +120,6 @@ All vulnerabilities were successfully detected and resolved.
 
 ---
 
-## Security Note
-
-The vulnerable application is intentionally insecure and is provided strictly for learning and demonstration purposes. It must never be deployed in a production environment.
-
----
-
 ## Learning Outcomes
 
 * Hands-on experience with secure coding review
@@ -139,9 +130,9 @@ The vulnerable application is intentionally insecure and is provided strictly fo
 
 ---
 
-## Author
+## Security Note
 
-Dheekshita R
+The vulnerable application is intentionally insecure and is provided strictly for learning and demonstration purposes. It must never be deployed in a production environment.
 
 ---
 
@@ -149,5 +140,4 @@ Dheekshita R
 
 This project demonstrates a complete secure coding review lifecycle by analyzing vulnerable source code, identifying security flaws, applying secure coding practices, and validating fixes through static analysis. The secure implementation successfully eliminates all detected vulnerabilities, reinforcing the importance of proactive security in software development.
 
-
-
+---

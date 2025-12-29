@@ -1,4 +1,4 @@
-# CodeAlpha_SecureCodingReview – Secure Coding Review Using Bandit
+# Secure Coding Review Using Bandit
 
 ---
 
@@ -6,7 +6,7 @@
 
 This project demonstrates a **Secure Coding Review** of a Python-based web application using **static code analysis and manual inspection**. The objective is to identify common security vulnerabilities, analyze their impact, and implement secure coding best practices to mitigate them.
 
-The project is developed as part of the **CodeAlpha Cyber Security Internship – Task 3** and showcases a real-world secure coding workflow by comparing an intentionally vulnerable application with a hardened secure implementation.
+It showcases a real-world secure coding workflow by comparing an intentionally vulnerable application with a hardened secure implementation.
 
 ---
 
@@ -142,8 +142,6 @@ The vulnerable application is intentionally insecure and is provided strictly fo
 ## Author
 
 Dheekshita R
-
-Cyber Security Intern – CodeAlpha
 
 ---
 

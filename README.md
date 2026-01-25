@@ -141,3 +141,9 @@ The vulnerable application is intentionally insecure and is provided strictly fo
 This project demonstrates a complete secure coding review lifecycle by analyzing vulnerable source code, identifying security flaws, applying secure coding practices, and validating fixes through static analysis. The secure implementation successfully eliminates all detected vulnerabilities, reinforcing the importance of proactive security in software development.
 
 ---
+
+## Author
+
+Dheekshita R
+
+---
